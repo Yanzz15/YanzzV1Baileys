@@ -1,17 +1,17 @@
 {
-  "name": "naruyaizumi",
+  "name": "DinzID",
   "version": "25.9.1",
   "description": "baileys whatsapp-api",
   "keywords": [
     "whatsapp",
     "baileys"
   ],
-  "homepage": "https://github.com/naruyaizumi/baileys",
+  "homepage": "https://github.com/DinzID/DinzV1Baileys",
   "repository": {
-    "url": "https://github.com/naruyaizumi/baileys"
+    "url": "https://github.com/DinzID/DinzV1Baileys"
   },
   "license": "MIT",
-  "author": "Naruya Izumi",
+  "author": "DinzID",
   "main": "lib/index.js",
   "files": [
     "lib/*",
