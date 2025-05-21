@@ -1,8 +1,8 @@
-# <div align='center'>Baileys - WhatsApp API</div>
+# <div align='center'>Whatsapp Api - Baileys</div>
 
 <div align='center'>
 
-![WhatsApp API](https://i.supa.codes/kyWCSZ)
+![WhatsApp API](https://files.catbox.moe/hxvnk5.jpg)
 
 </div>
 
