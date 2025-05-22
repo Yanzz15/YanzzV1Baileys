@@ -55,7 +55,7 @@ Paket ini `membutuhkan` Node.js versi **20 atau lebih tinggi** untuk berjalan.
 
 Proyek ini secara eksplisit ditujukan untuk lingkungan modern dan tidak mendukung Node versi lama. Dukungan akan selalu mengikuti versi LTS terbaru dari Node.js untuk menjaga performa dan kompatibilitas dengan ekosistem terbaru.
 
-![metadata](https://files.catbox.moe/2q3axe.jpg)
+![metadata](https://files.catbox.moe/2q3axe.jp)
 
 > **Recode Baileys By DinzID**
 
