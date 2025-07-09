@@ -1,5 +1,5 @@
 {
-  "name": "DinzID",
+  "name": "YanzzHost",
   "version": "25.9.1",
   "description": "baileys whatsapp-api",
   "keywords": [
@@ -11,7 +11,7 @@
     "url": "https://github.com/DinzID/DinzV1Baileys"
   },
   "license": "MIT",
-  "author": "DinzID",
+  "author": "YanzzHost",
   "main": "lib/index.js",
   "files": [
     "lib/*",
